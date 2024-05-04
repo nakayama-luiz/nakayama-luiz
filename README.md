@@ -1,4 +1,4 @@
-<h1 align="center">🐧 Nakayama</h1>
+<h1 align="center">Nakayama</h1>
 <h3 align="center">A young passionate Full-Stack software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakayama-luiz&label=Profile%20views&color=0e75b6&style=flat" alt="nakayama-luiz" /> </p>
