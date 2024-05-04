@@ -1,6 +1,6 @@
 <h1 align="center">Nakayama</h1>
 <h3 align="center">A young passionate Full-Stack software developer</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gustave_Dor%C3%A9_-_Torrent_in_the_Highlands_-_72.17_-_Indianapolis_Museum_of_Art.jpg/800px-Gustave_Dor%C3%A9_-_Torrent_in_the_Highlands_-_72.17_-_Indianapolis_Museum_of_Art.jpg" style="width: 400px;" alt="" srcset="">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Gustave_Dor%C3%A9_-_Torrent_in_the_Highlands_-_72.17_-_Indianapolis_Museum_of_Art.jpg/800px-Gustave_Dor%C3%A9_-_Torrent_in_the_Highlands_-_72.17_-_Indianapolis_Museum_of_Art.jpg" style="width: 400px;" alt="" srcset="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakayama-luiz&label=Profile%20views&color=0e75b6&style=flat" alt="nakayama-luiz" /> </p>
 
 - 🔭 I’m currently working on [ORVIL](https://github.com/nakayama-luiz/livros)
